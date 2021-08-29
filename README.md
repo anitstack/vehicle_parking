@@ -35,7 +35,7 @@ command-3: "python3 -m unittest unittests/test_parking.py"
 - end_status_update - ending for each command
 - queue_full_log
 
-# recommanded termial for view log
+##### recommanded termial for view log
 
 #### Drawback
 - for successfully run application, each command in the file should be in suggested format
