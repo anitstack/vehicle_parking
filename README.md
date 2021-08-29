@@ -1,4 +1,4 @@
-# Automatic Ticket Parking
+# Automatic Vehicle Parking
 ### *Easy to park, exist & search vehicle tasks in Python*
 *Updated 29/08/2021*
 
@@ -35,7 +35,7 @@ command-3: "python3 -m unittest unittests/test_parking.py"
 - end_status_update - ending for each command
 - queue_full_log
 
-# recommanded termial for view log
+##### recommanded termial for view log
 
 #### Drawback
 - for successfully run application, each command in the file should be in suggested format
